@@ -1,0 +1,39 @@
+# ==========================================
+# Gradle & Build Outputs
+# ==========================================
+.gradle/
+build/
+output/
+
+# Ignore Gradle Wrapper JAR (Optional, un-comment jika tidak ingin menyimpannya di Git)
+# !gradle/wrapper/gradle-wrapper.jar
+
+# ==========================================
+# Python
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv/
+
+# ==========================================
+# IDE & Editors
+# ==========================================
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# ==========================================
+# System Files
+# ==========================================
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
