@@ -49,7 +49,7 @@ Verify your Gradle Wrapper configuration:
 
 ### 2. Running the C2 Server
 
-Start the Command & Control listener:
+Start the Command to build the RAT for targets:
 
 ```bash
 python c2.py
