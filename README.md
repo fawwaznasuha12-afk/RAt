@@ -47,7 +47,7 @@ Verify your Gradle Wrapper configuration:
 ./gradlew wrapper
 ```
 
-### 2. Running the C2 Server
+### 2. Build the C2 Server
 
 Start the Command to build the RAT for targets:
 
@@ -55,9 +55,9 @@ Start the Command to build the RAT for targets:
 python c2.py
 ```
 
-### 3. Running the Client Agent
+### 3. Build a Controller script
 
-Execute the client script on the target environment:
+Execute the script in the terminal:
 
 ```bash
 python main.py
